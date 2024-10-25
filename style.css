@@ -6,12 +6,11 @@
   
   body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
   background-color: #0a0a23;
     color: #ffffff;
   }
   .whole-container{
-    
+
     display: flex;
     align-items: center;
     justify-content: center;
@@ -34,7 +33,8 @@
     text-align: center;
     padding: 10px 0;
     font-size: 2.5rem;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+    
   }
   
   .palindrome-div {
@@ -78,9 +78,7 @@
     border-bottom: 2px solid #5a01a7;
   }
   
-  #text-input:focus {
-    border-bottom: 3px solid #5a01a7;
-  }
+ 
   
  
   
